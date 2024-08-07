@@ -1,4 +1,4 @@
-name: AACMKT ra-progects
+name: AACMKT ra-projects
 
 on: [push, pull_request]
 
